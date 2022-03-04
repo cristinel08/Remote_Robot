@@ -7,4 +7,4 @@ with the help of an HC06 bluetooth module.
 The SignComands is a folder with all the hand signs that can transfer data to the Arduino
 
 
-The CV_CONTROL folder has the codes for the robot. Depending on the data that python transfers it executes a command. It also has an SR04 ultrasonic sensor that allow him to avoid the environment around him.
+The CV_CONTROL folder has the codes for the robot. Depending on the data that python transfers, it executes a command. It also has an SR04 ultrasonic sensor that allow him to detect the environment around him and drive by himself.
