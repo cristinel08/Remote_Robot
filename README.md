@@ -1,5 +1,5 @@
 # Remote_Robot
-With the help of a bluetooth module I created a code to control robot using hand signs with the help of Python and OpenCV
+With the help of a bluetooth module I created a code to control a robot using hand signs with the help of Python and OpenCV
 
 RobotSendData is the main folder. With the help of the other modules (HandTrack and Serial), I can find my hand, check if there is a hand sign and transfer that data to an Arduino 
 with the help of an HC06 bluetooth module.
